@@ -1,6 +1,3 @@
-Here's a shorter version of your README:
-
----
 
 # Kaggle Project: Data Exploration with Pandas & Matplotlib
 
